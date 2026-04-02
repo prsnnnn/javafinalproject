@@ -55,6 +55,11 @@
 
 ## Результати
 Застосунок успішно інтегрує дані з БД та зовнішнього API, відображаючи актуальну температуру для обраних локацій (Ulsteinvik, Kyiv) на фронтенд-панелі.
+<img width="1810" height="345" alt="image" src="https://github.com/user-attachments/assets/c3d8a723-1336-4462-8eb2-9db2858f760e" />
+<img width="1606" height="125" alt="image" src="https://github.com/user-attachments/assets/9e6104da-1660-43a9-9f81-27a856c55059" />
+<img width="577" height="508" alt="image" src="https://github.com/user-attachments/assets/8d793b30-bf49-436d-b6b5-7776f198da69" />
+
+
 
 ## Висновки
 У ході роботи було опановано фреймворк Spring Boot, роботу з реляційними базами даних та принципи побудови REST-архітектури.
